@@ -1,0 +1,6 @@
+torch
+fairseq
+gradio
+transformers
+Pillow
+g2p-en
